@@ -41,6 +41,16 @@ which case toposort was succesful and the graph contained no cycles.
 
 b) The sorted array will contain less than the number of nodes in the graph which
 means it was unsuccesful because the graph contained atleast one cycle.
+
+
+Applications:
+*Finding the prerequisites for a college class schedule
+*Anything requires ordering of a graph
+
+Problems on Leetcode.com
+i) Course schedule
+ii) Course schedule II
+iii) Longest Increasing pathe in a matrix
 ***/
 
 
